@@ -1,1 +1,4 @@
 out/
+.idea
+src/.idea
+src/data.txt
